@@ -1,8 +1,6 @@
-# Hi there 👋, I'm ShionGT
+# Welcome to my GitHub profile!
 
-Welcome to my GitHub profile!
-
-## 🚀 About Me
+## About Me
 - 🌱 I’m currently learning AI
 - 📫 How to reach me: [shion.toda@gmail.com](mailto:shion.toda@gmail.com)
 - ⚡ Fun fact: My dog's name is Picasso
