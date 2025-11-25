@@ -1,7 +1,7 @@
 # Welcome to my GitHub profile!
 
 ## About Me
-- 🌱 I’m currently learning AI
+- 🌱 Coding gets fun
 - 📫 How to reach me: [shion.toda@gmail.com](mailto:shion.toda@gmail.com)
 - ⚡ Fun fact: My dog's name is Picasso
 
@@ -17,11 +17,7 @@
 ![ShionGT's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShionGT&show_icons=true&theme=radical)
 
 ## 📚 Latest Projects
-- [Project #1](https://github.com/ShionGT/Japanese-Wordle): Japanese Wordle
-
-## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
+- [Japanese Wordle] (https://github.com/ShionGT/Japanese-Wordle)
 
 ---
 
