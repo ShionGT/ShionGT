@@ -1,4 +1,4 @@
-# Welcome to my GitHub profile~
+# Welcome to my GitHub profile :)
 
 ## 🛠️ Languages and Tools
 ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white)
