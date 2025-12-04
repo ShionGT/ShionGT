@@ -1,9 +1,4 @@
-# Welcome to my GitHub profile!
-
-## About Me
-- 🌱 Coding gets fun
-- 📫 How to reach me: [shion.toda@gmail.com](mailto:shion.toda@gmail.com)
-- ⚡ Fun fact: My dog's name is Picasso
+# Welcome to my GitHub profile~
 
 ## 🛠️ Languages and Tools
 ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white)
@@ -12,9 +7,6 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-orange?logo=git&logoColor=white)
 <!-- Add more badges as appropriate -->
-
-## 📈 GitHub Stats
-![ShionGT's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShionGT&show_icons=true&theme=radical)
 
 ## 📚 Latest Projects
 - [Japanese Wordle] (https://github.com/ShionGT/Japanese-Wordle)
