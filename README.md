@@ -7,10 +7,15 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-orange?logo=git&logoColor=white)
 <!-- Add more badges as appropriate -->
+---
+
+## External Links
+- [LeetCode] (https://leetcode.com/u/ShionGT/)
+---
 
 ## 📚 Latest Projects
-- [Japanese Wordle] (https://github.com/ShionGT/Japanese-Wordle)
-
+- Japanese Wordle: (https://github.com/ShionGT/Japanese-Wordle
+- Blackjack Game: (https://shiongt.github.io/Casino-Blackjack-Simulator/)
 ---
 
 *Thanks for visiting!*
