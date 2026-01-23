@@ -10,12 +10,12 @@
 ---
 
 ## External Links
-- [LeetCode] (https://leetcode.com/u/ShionGT/)
+- LeetCode: https://leetcode.com/u/ShionGT/
 ---
 
 ## 📚 Latest Projects
-- Japanese Wordle: (https://github.com/ShionGT/Japanese-Wordle
-- Blackjack Game: (https://shiongt.github.io/Casino-Blackjack-Simulator/)
+- Japanese Wordle: https://github.com/ShionGT/Japanese-Wordle
+- Blackjack Game: https://shiongt.github.io/Blackjack/
 ---
 
 *Thanks for visiting!*
