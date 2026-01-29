@@ -16,6 +16,6 @@
 ## 📚 Latest Projects
 - Japanese Wordle: https://shiongt.github.io/Japanese-Wordle/
 - Blackjack Game: https://shiongt.github.io/Blackjack/
-- Sakanaciton Fan Page: shiongt.github.io/sakanaction
+- Sakanaciton Fan Page: https://shiongt.github.io/sakanaction
 
 *Thanks for visiting!*
