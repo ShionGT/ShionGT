@@ -9,9 +9,6 @@
 <!-- Add more badges as appropriate -->
 ---
 
-## External Links
-- LeetCode: https://leetcode.com/u/ShionGT/
----
 
 ## 📚 Latest Projects
 - Japanese Wordle: https://shiongt.github.io/Japanese-Wordle/
