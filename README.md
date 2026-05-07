@@ -1,5 +1,7 @@
 # Welcome to my GitHub profile :)
 
+I’m an IT student focused on data analysis, and I’ve been building projects using Python to analyze real-world datasets like stock market trends.
+
 ## 🛠️ Languages and Tools
 ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?logo=java&logoColor=white)
