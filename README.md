@@ -3,6 +3,7 @@ IT student focused on data analysis
 
 ## Expertise: 
 ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -38,3 +39,8 @@ IT student focused on data analysis
 - Japanese Wordle: https://shiongt.github.io/Japanese-Wordle/
 - Blackjack Game: https://shiongt.github.io/Blackjack/
 - Sakanaciton Fan Page: https://shiongt.github.io/sakanaction
+
+# Online Courses ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
+- Quant
+- GGL, DB
+- Unity
