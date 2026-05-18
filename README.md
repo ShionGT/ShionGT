@@ -1,20 +1,17 @@
 # Welcome to my GitHub profile :)
 
-I’m an IT student focused on data analysis, and I’ve been building projects using Python to analyze real-world datasets like stock market trends.
+IT student focused on data analysis
 
-## 🛠️ Languages and Tools
+## Languages and Tools
 ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?logo=java&logoColor=white)
+![Java](https://shields.io)
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-orange?logo=git&logoColor=white)
 <!-- Add more badges as appropriate -->
 ---
 
-
-## 📚 Latest Projects
+## Projects
 - Japanese Wordle: https://shiongt.github.io/Japanese-Wordle/
 - Blackjack Game: https://shiongt.github.io/Blackjack/
 - Sakanaciton Fan Page: https://shiongt.github.io/sakanaction
-
-*Thanks for visiting!*
