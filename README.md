@@ -42,4 +42,4 @@
 ### Online Courses ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
 - Quant
 - GGL, DB
-- ![Introduction to C# Programming and Unity](https://coursera.org/share/a4b71317948268c6f2d3cf05b68eadd7)
+- [Introduction to C# Programming and Unity](https://coursera.org/share/a4b71317948268c6f2d3cf05b68eadd7)
