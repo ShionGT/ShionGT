@@ -37,7 +37,8 @@
 ### Projects
 - Japanese Wordle: https://shiongt.github.io/Japanese-Wordle/
 - Blackjack Game: https://shiongt.github.io/Blackjack/
-- Sakanaciton Fan Page: https://shiongt.github.io/sakanaction
+- Sakanaciton Fan Page: https://shiongt.github.io/sakanaction/
+- McDonald's Stocks: https://github.com/ShionGT/McDonaldEconomy/
 
 ### Online Courses ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
 - Quant
