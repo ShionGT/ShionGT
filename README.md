@@ -1,6 +1,7 @@
 ## IT student focused on data analysis
+https://shiongt.github.io/
 
-### Expertise: 
+### Fun Boxes
 ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
